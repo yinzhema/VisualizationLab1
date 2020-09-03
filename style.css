@@ -1,0 +1,32 @@
+#generate{
+    background-color: maroon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div p{
+    margin-top: 10px;
+    background-color: lightgrey;
+    color: black;
+    border-color: grey;
+    border-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.containter{
+    margin: 10px;
+}
+
+div img{
+    margin: 15px;
+    height: 320px;
+    width: 500px;
+}
